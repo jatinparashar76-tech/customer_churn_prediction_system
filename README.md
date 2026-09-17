@@ -52,6 +52,7 @@ By analyzing customer behavior and account information, this project predicts:
 ## 👤 Author
 **jatin parshar**  
 [GitHub Profile](https://github.com/jatinparashar76-tech) 
+
 Email: jatinparashar76@gmail.com
 
 
