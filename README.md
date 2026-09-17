@@ -57,6 +57,4 @@ Email: jatinparashar76@gmail.com
 
 
 
-**jatin parshar**  
-[GitHub Profile](https://github.com/jatinparashar76-tech) 
-Email: jatinparashar76@gmail.com
+
